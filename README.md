@@ -67,8 +67,8 @@ I am a passionate Computer Science student with hands-on experience in web devel
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" style="border-radius: 10px;"/>
 </p>
 
-**Others:**
-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+`Miscellaneous:`
+- Flutter
 - Data Structures and Algorithms (DSA)
 - Machine Learning
 - Object-Oriented Programming (OOP)
