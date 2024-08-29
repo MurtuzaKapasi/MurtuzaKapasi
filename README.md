@@ -127,7 +127,6 @@ FarmEase is a farmer's tool rental platform where farmers can lend their tools f
 
 ### 📫 Contact Me
 
-- **Phone**: +91-7276990453
 - **Email**: [murtuzakapasi.official@gmail.com](mailto:murtuzakapasi.official@gmail.com)
 - **LinkedIn**: [Murtuza Kapasi](https://www.linkedin.com/in/murtuza-kapasi)
 - **GitHub**: [MurtuzaKapasi](https://www.github.com/MurtuzaKapasi)
